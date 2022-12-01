@@ -27,7 +27,7 @@ public class Main{
         animalBehavior[1].sleep();
         animalBehavior[2].sleep();
 
-
+/**/
 
         for (Animal object:
              anim) {
